@@ -1,0 +1,7 @@
+Sample text file with contact information:
+
+1. John Doe - Email: johndoe@example.com, Phone: 1234567890
+2. Jane Smith - Contact: jane.smith@email.com, Mobile: 9876543210
+3. Alex Brown - Email: alex.brown@example.org, Cell: 5551234567
+4. Sarah Johnson - Phone: 1112223333 , Email: sarah.johnson@email.net
+5. Michael Lee - Email: michaellee@example.com, Mobile: 9998887777
